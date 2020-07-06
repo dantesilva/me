@@ -1,37 +1,8 @@
 ## Bem vindo a minha página pessoal no GitHub
 
-You can use the [editor on GitHub](https://github.com/dantesilva/me/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Nesta página você poderá me conhecer um pouco mais, e também ficará por dentro dos meus prositos disponíveis por aqui. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Quem sou eu?
 
-### Markdown
+Meu nome é Dante de souza Silva, tenho 36 anos e trabalho com TI a mais de 15 anos. A maioria desse tempo fo dedicada a infraestrutura de TI. Porém nos últimos 5 anos tenho me dedicado a Cibersegurança e Pentest. Já fiz consultoria e pentest ṕara grandes empresas, que não posso revelar o nome aqui por questão de confidencialidade. Sou apaixonado por Linux e tecnologias Opensource.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dantesilva/me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
