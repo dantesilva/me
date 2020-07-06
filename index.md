@@ -1,4 +1,4 @@
-https://github.com/dantesilva/me/blob/master/logo_dante.png
+ ![Alt text](https://github.com/dantesilva/me/blob/master/logo_dante.png)
 ## Bem vindo a minha página pessoal no GitHub
 
 Nesta página você poderá me conhecer um pouco mais, e também ficará por dentro dos meus prositos disponíveis por aqui. 
