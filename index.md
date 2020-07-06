@@ -4,5 +4,7 @@ Nesta página você poderá me conhecer um pouco mais, e também ficará por den
 
 ### Quem sou eu?
 
- ![Alt text](https://github.com/dantesilva/me/blob/master/foto1.jpeg) Meu nome é Dante de souza Silva, tenho 36 anos e trabalho com TI a mais de 15 anos. A maioria desse tempo fo dedicada a infraestrutura de TI. Porém nos últimos 5 anos tenho me dedicado a Cibersegurança e Pentest. Já fiz consultoria e pentest ṕara grandes empresas, que não posso revelar o nome aqui por questão de confidencialidade. Sou apaixonado por Linux e tecnologias Opensource.
+ 
+ Meu nome é Dante de souza Silva, tenho 36 anos e trabalho com TI a mais de 15 anos. A maioria desse tempo fo dedicada a infraestrutura de TI. Porém nos últimos 5 anos tenho me dedicado a Cibersegurança e Pentest. Já fiz consultoria e pentest ṕara grandes 
+ ![Alt text](https://github.com/dantesilva/me/blob/master/foto1.jpeg) empresas, que não posso revelar o nome aqui por questão de confidencialidade. Sou apaixonado por Linux e tecnologias Opensource.
 
